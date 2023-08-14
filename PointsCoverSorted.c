@@ -1,3 +1,7 @@
+/*Implement the start and end points of segments of length 2 to cover all the sorted points in an array,
+  Time complexity: O(n)*/
+  
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
